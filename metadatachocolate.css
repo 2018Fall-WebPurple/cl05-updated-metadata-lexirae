@@ -1,0 +1,37 @@
+/*
+*Lexi Hall
+*November 7, 2018
+*MetaData Chocolate Project
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body { 
+     background-color: rosybrown;
+    font-family: Arial, Helvetica, sans-serif; 
+} 
+header {background-color: pink;}
+main {background-color: lightcyan;}
+footer {background-color: indianred;}
+img {width: 200px; height 100px;}
+img {float: right;}
+
+h1 {
+    text-decoration: underline; 
+    font-size: 150%;
+    text-align: center; 
+    background-color: antiquewhite;
+    
+} 
+
+p { 
+    background-color: white;
+    color: navy;
+}
+
